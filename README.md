@@ -25,7 +25,7 @@ When I'm not coding, you'll find me on Discord, messing with new ideas, or just 
 ### 📬 Let's connect
 🌐 [rodchaskai.com.tr](https://www.rodchaskai.com.tr) &nbsp;•&nbsp;  
 💬 [discord.gg/rodchaskai](https://discord.gg/rodchaskai) &nbsp;•&nbsp;  
-📧 rodchaskai.contact@proton.me
+📧[rodchaskaicontact@proton.me](https://mailto:rodchaskaicontact@proton.me) &nbsp;•&nbsp;  
 
 ---
 
