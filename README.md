@@ -9,10 +9,10 @@ Building free, lightweight tools for gamers who hate wasting time (and electrici
 
 | Project | Description |
 |---------|-------------|
-| **[CHASC AFK Bot](https://github.com/Rodchaskai/CHASC-AFK-Bot-PC)** | Ultra-low power Minecraft AFK bot. Join servers, read chat & send commands while your PC barely notices. Free & open source. |
+| **[CHASC LAUNCHER](https://github.com/Rodchaskai/CHASC.Launcher/)** | My best project... | Minecraft 1.8 PvP Launcher | status: Closed Beta
+| **[CHASC AFK Bot](https://github.com/Rodchaskai/CHASC-AFK-Bot-PC)** | Ultra-low power Minecraft AFK bot. Join servers, read chat & send commands while your PC barely notices. Free & open source. |beta only
 | **[CHASC Steam Manager](https://github.com/Rodchaskai/CHASC-Steam-Manager)** | Drop trading cards, idle games, unlock every achievement with one click. Zero data collection, pure utility. |
 | **[CHASC AFK Bot Android Vers.](https://github.com/Rodchaskai/CHASC-AFK-Bot-ANDROID)** | CHASC AFK Bot Android Version...|
-| **[!CHASC LAUNCHER!](https://github.com/Rodchaskai/CHASC.Launcher/)** | My best project... Minecraft PvP Launcher!|
 
 I'll be adding a Minecraft launcher project to this great list very soon, too :3
 ---
