@@ -1,6 +1,6 @@
 # Hey, I'm Rodchaskai 👋
 
-**Founder of Chaskai Media & RCK Network**  
+**Founder of Chaskai Media & CHASC Network**  
 Building free, lightweight tools for gamers who hate wasting time (and electricity).
 
 ---
